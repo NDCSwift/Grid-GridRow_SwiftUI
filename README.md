@@ -12,7 +12,7 @@ This project demonstrates SwiftUI's native `Grid` and `GridRow` layout system th
 - **`gridCellUnsizedAxes` / `gridColumnAlignment`** — fine-tune per-cell sizing and per-column alignment without affecting the rest of the grid
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/LHeXajNcG_g)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -51,4 +51,4 @@ Change the Bundle Identifier to something unique, e.g. `com.yourname.GridsSwiftU
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/LHeXajNcG_g)
