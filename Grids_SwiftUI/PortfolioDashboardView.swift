@@ -3,7 +3,7 @@
 //  Grids_SwiftUI
 //
 //  GitHub Reference: SwiftUI Grid & GridRow
-//  📺 YouTube: Noah Does Coding — https://www.youtube.com/@NoahDoesCoding97
+//  📺 YouTube: Noah Does Coding — https://www.youtube.com/@noahdoescoding
 //
 
 //  Scroll down to see each Grid concept demonstrated with comments.
